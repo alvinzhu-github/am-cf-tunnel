@@ -1,0 +1,8 @@
+name = "lively-bread-cda9"
+main = "_worker.js"
+compatibility_date = "2026-05-31"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "amclubs"
+id = "1ed560fed9f34c39bb25174dbe19af27"
